@@ -1,0 +1,33 @@
+{
+    "topnav":{
+        "home":"Trang chủ",
+        "location":"Hệ thống cửa hàng",
+        "contact":"Liên hệ",
+        "support":"Hỗ trợ khách hàng"
+    },
+    "navbar": {
+        "search": "Tìm kiếm...",
+        "login": "Đăng nhập",
+        "signup": "Đăng kí",
+        "logout": "Đăng xuất",
+        "topup": "Nạp tiền",
+        "hi": "Xin chào",
+        "cartCount":"Giỏ hàng của bạn có",
+        "product": "sản phẩm",
+        "laptop":"Máy tính xách tay",
+        "pc":"Máy tính để bàn",
+        "phone":"Điện thoại",
+        "speaker":"Thiết bị âm thanh",
+        "accessory":"Phụ kiện"
+    },
+    "sidebar": {
+        "home": "Trang chủ",
+        "courses": "Khóa học",
+        "about": "Giới thiệu"
+    },
+    "footer": {
+        "aboutUs": "Về chúng tôi",
+        "address": "Địa chỉ",
+        "contactUs": "Liên hệ"
+    }
+}

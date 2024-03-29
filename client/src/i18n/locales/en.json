@@ -1,0 +1,33 @@
+{
+    "topnav":{
+        "home":"Home",
+        "location":"Location",
+        "contact":"Contact",
+        "support":"Customer Support"
+    },
+    "navbar": {
+        "search": "Search...",
+        "login": "Login",
+        "signup": "Register",
+        "logout": "Log out",
+        "topup": "Top up",
+        "hi": "Hello",
+        "cartCount": "Your cart contains",
+        "product":"product*",
+        "laptop":"Laptop",
+        "pc":"PC",
+        "phone":"Phone",
+        "speaker":"Speakers",
+        "accessory":"Accessory"
+    },
+    "sidebar": {
+        "home": "Home",
+        "courses": "Courses",
+        "about": "About"
+    },
+    "footer": {
+        "aboutUs": "About us",
+        "address": "Address",
+        "contactUs": "Contact us"
+    }
+}
